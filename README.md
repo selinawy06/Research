@@ -1,1 +1,1 @@
-SCAMP 2026 Application, contains 2023 NDSEG Proposal for more information on my research of quantum position verification in the multi-partite setting
+2023 NDSEG Fellowship Proposal (selected to receive the award from a pool of ~3400 applications), contains more information on my research of quantum position verification in the multi-partite setting
